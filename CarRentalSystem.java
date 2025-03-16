@@ -17,7 +17,8 @@
  * Clay Vaughn,
  * @version 1.0
  * @date: 3/15/25
- *
+ * Instructions: Select 1-4 to choose a case, if you choose to create an account choose an account ID you can remember and input your name, number, 
+ * and email. After that you can view available cars and select them to rent for a certain amount of days.
  */
 
 package rentalsystem;
