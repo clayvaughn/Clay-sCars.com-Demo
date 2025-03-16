@@ -1,6 +1,6 @@
 /*
  *
- * INFO-C 211 Final Project
+ * 
  * Clay'sCars.com Demo
  *
  * File: CarRentalSystem.java
